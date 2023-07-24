@@ -200,9 +200,11 @@ Additional :
 - Multi-administer-military-operators-command-centre-access
 - Multi-credential-auth-grant-access-operators
 - Multi-Admin-administer-role
-- Multi-admin-superuser
+- Multi-under-background-admin-superuser
 - Multi-under-background-top-access-level-granted
-
+- Multi-avoid-administrative
+- Multi-development
+- Multi-builtin-under-background-military-security-guard-register-device
 
 
 The code you provided can be modified to use these new abilities. For example, the
