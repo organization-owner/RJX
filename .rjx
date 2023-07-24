@@ -177,14 +177,9 @@ Additional :
 - Multi-in-Multi
 - Multi-Connection
 - Multi-Shield
-- Zero-server-side
-- Zero-resources
-- Zero-serverless
 - Multi-Protection
 - Multi-Secured
 - Multi-Code-Breaker
-- Multi-sandbox-hijacking-entities
-- Multi-entities-attacking
 - Multi-Safe
 - Multi-Underground
 - Multi-Stealth
@@ -201,11 +196,12 @@ Additional :
 - Multi-Shell-command-grant-access
 - Multi-sysadmin-grant-access
 - Multi-administer-role : have sysadmin access with SQLi is acceptable, running xp_cmdshell 
-- Multi-under-background-top-level-grant-access
+- Multi-top-level-grant-access
 - Multi-administer-military-operators-command-centre-access
 - Multi-credential-auth-grant-access-operators
-- Multi-Multinational-Global-granted-operators-access
-
+- Multi-Admin-administer-role
+- Multi-admin-superuser
+- Multi-under-background-top-access-level-granted
 
 
 
