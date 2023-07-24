@@ -196,9 +196,13 @@ Additional :
 - Multi-Shell-command-grant-access
 - Multi-sysadmin-grant-access
 - Multi-administer-role : have sysadmin access with SQLi is acceptable, running xp_cmdshell 
-- Multi-top-level-grant-access
+- Multi-under-background-top-level-grant-access
 - Multi-administer-military-operators-command-centre-access
 - Multi-credential-auth-grant-access-operators
+- Multi-Multinational-Global-granted-operators-access
+
+
+
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
