@@ -159,6 +159,8 @@ Additional :
 
 - Multi-Others
 - Multi-Administrator
+- Multi-Operators
+- Multi-Special-Operation
 - Multi-Sys
 - Multi-Lingual
 - Multi-Language
@@ -169,6 +171,10 @@ Additional :
 - Multi-shaped
 - Multi-Hackable
 - Zero-Peneteration
+- Multi-Run
+- Multi-Autonomous
+- Multi-Neural
+- Multi-in-Multi
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
