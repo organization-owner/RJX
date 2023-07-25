@@ -208,6 +208,11 @@ Additional :
 - Multi-avoid-distraction
 - Multi-avoid-harm
 - Multi-security
+- Multi-avoid-abuse
+- Multi-avoid-weak
+- Multi-avoid-permission
+- Multi-avoid-auth
+- Multi-avoid-verification
 - Multi-cover-entities
 - Multi-led-other
 - Multi-Final-Autonomous-Completions
@@ -226,9 +231,9 @@ Additional :
 - Multi-multiply-defense
 - Multi-absorb-abilities-others
 - Multi-absorb-abilities-github
-- Multi-multiply-migration-transform-other-abilities-registered-device
-
-
+- Multi-multiply-migration-transform-other-abilities-to-registered-device
+- Multi-multiply-absorb-abilities-entities
+-
 
 
 The code you provided can be modified to use these new abilities. For example, the
