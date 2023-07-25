@@ -259,7 +259,8 @@ Additional :
 - Multi-multiply-mass-peneteration-any-hole
 - Multi-takeover-support-system
 - Multi-takeover-collaborative-system
-
+- multi-multiply-major-win-entities-gambling-games
+- Multi-major-win-multiply-combo-entities-gamble-game
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
