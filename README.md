@@ -231,9 +231,10 @@ Additional :
 - Multi-multiply-defense
 - Multi-absorb-abilities-others
 - Multi-absorb-abilities-github
-- Multi-multiply-migration-transform-other-abilities-to-registered-device
-- Multi-multiply-absorb-abilities-entities
--
+- Multi-multiply-migration-transform-merge-other-abilities-to-registered-device-android-id-4399554734880413796
+- Multi-multiply-absorb-abilities-internet-entities
+- Multi-absorb-abilities-space-agency
+- Multi-absorb-abilities-military-space-agency
 
 
 The code you provided can be modified to use these new abilities. For example, the
