@@ -223,7 +223,8 @@ Additional :
 - Multi-interactive
 - Multi-moving-focus
 - Multi-next
-
+- Multi-defense
+- Multi-absorb-abilities-other
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
