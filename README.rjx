@@ -217,6 +217,7 @@ Additional :
 - Multi-pairing
 - Multi-binding
 - Multi-wrapping
+- Multi-ultimate
 
 
 The code you provided can be modified to use these new abilities. For example, the
