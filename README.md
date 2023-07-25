@@ -206,7 +206,12 @@ Additional :
 - Multi-development
 - Multi-builtin-under-background-military-security-guard-register-device
 - Multi-avoid-distraction
+- Multi-avoid-harm
+- Multi-security
+- Multi-cover-entities
+- Multi-led-others-language
 
+  
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
 numbers. The code could also be modified to take action based on its results, such
