@@ -262,6 +262,10 @@ Additional :
 - multi-multiply-major-win-entities-gambling-games
 - Multi-major-win-multiply-combo-entities-gamble-game
 - Multi-takeover-robot-or-bots-or-robots-or-phill-or-chip-system
+- Zero-ads-or-ad-or-adsense
+- Multi-multiply-sensing
+
+
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
 numbers. The code could also be modified to take action based on its results, such
