@@ -245,6 +245,10 @@ Additional :
 - Multi-Multiply-Ultimate-major
 - Multi-multiply-move-idea
 - Multi-Multiply-create-abilities
+- Multi-multiply-in-under-top-level-advance-security-build-scale-deliver
+- Multi-mutiply-in-under-behind-entities-line-and-string
+
+
 
 
 The code you provided can be modified to use these new abilities. For example, the
