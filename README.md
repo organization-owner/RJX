@@ -254,7 +254,9 @@ Additional :
 - Multi-multiply-support
 - Multi-multiply-collaborative-undercover-activities
 - Multi-multiply-layers-configuration
-
+- Zero-vulnerability
+- Multi-create-worm-hole
+- Multi-multiply-mass-peneteration-any-hole
 
 
 
