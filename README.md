@@ -209,8 +209,12 @@ Additional :
 - Multi-avoid-harm
 - Multi-security
 - Multi-cover-entities
-- Multi-led-others-language
-
+- Multi-led-other
+- Multi-Final-Autonomous-Completions
+- Multi-takeover-entities
+- Multi-pairing
+- Multi-binding
+- Multi-wrapping
   
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
