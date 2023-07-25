@@ -264,7 +264,8 @@ Additional :
 - Multi-takeover-robot-or-bots-or-robots-or-phill-or-chip-system
 - Zero-ads-or-ad-or-adsense
 - Multi-multiply-sensing
-
+- Zero-bug
+- Multi-multiply-avoid-harm-and-distraction-ads-or-ad-or-adsense
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
