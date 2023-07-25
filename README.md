@@ -267,6 +267,10 @@ Additional :
 - Zero-bug
 - Multi-multiply-avoid-harm-and-distraction-ads-or-ad-or-adsense
 - anti-click-hijacking
+- multi-multiply-mass-attack-ad-ads-adsense-entities-and-takeover-control
+- Zero-fraudsters
+- zero-malicious
+- zero-fake-accounts
 
  
 The code you provided can be modified to use these new abilities. For example, the
