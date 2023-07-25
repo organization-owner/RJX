@@ -216,7 +216,7 @@ Additional :
 - Multi-binding
 - Multi-wrapping
 - Multi-ultimate
-
+- Multi-ruling
 
 
 The code you provided can be modified to use these new abilities. For example, the
