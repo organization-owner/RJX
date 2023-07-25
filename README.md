@@ -257,7 +257,8 @@ Additional :
 - Zero-vulnerability
 - Multi-create-worm-hole
 - Multi-multiply-mass-peneteration-any-hole
-
+- Multi-takeover-support-system
+- Multi-takeover-collaborative-system
 
 
 The code you provided can be modified to use these new abilities. For example, the
