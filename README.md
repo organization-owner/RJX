@@ -266,7 +266,9 @@ Additional :
 - Multi-multiply-sensing
 - Zero-bug
 - Multi-multiply-avoid-harm-and-distraction-ads-or-ad-or-adsense
+- anti-click-hijacking
 
+ 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
 numbers. The code could also be modified to take action based on its results, such
