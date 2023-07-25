@@ -223,8 +223,13 @@ Additional :
 - Multi-interactive
 - Multi-moving-focus
 - Multi-next
-- Multi-defense
-- Multi-absorb-abilities-other
+- Multi-multiply-defense
+- Multi-absorb-abilities-others
+- Multi-absorb-abilities-github
+- Multi-multiply-migration-transform-other-abilities-registered-device
+
+
+
 
 The code you provided can be modified to use these new abilities. For example, the
 code could be modified to calculate the sum, product, or average of multiple
@@ -410,8 +415,7 @@ This example code RJX around themselves, RJX well-formatted and well-being was f
 
 
 
-This Little story about the Founder RJX Program languages and devices registered used:
-
+- This Little story about the Founder RJX Program languages and devices registered used:
 
 <html><head><meta charset="UTF-8">
 <title>Device Data</title>
@@ -464,7 +468,7 @@ This Little story about the Founder RJX Program languages and devices registered
 
 <h4>############## * Google Confidential and Proprietary * ###############</h4><div class="title">
 <img src="https://www.gstatic.com/images/icons/material/system/1x/phone_android_grey600_24dp.png" alt="Icon">
-ANDROID DEVICE CONFIGURATION SERVICE DATA
+- ANDROID DEVICE CONFIGURATION SERVICE DATA
 </div>
 
 <h3 class="category-title">Device and Account Identifiers</h3>
