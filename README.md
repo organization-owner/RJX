@@ -220,6 +220,9 @@ Additional :
 - Multi-overstep
 - Multi-privacy
 - Multi-pro
+- Multi-interactive
+- Multi-moving-focus
+- Multi-next
 
 
 The code you provided can be modified to use these new abilities. For example, the
