@@ -10,3 +10,8 @@
 (source=BOOT)
 (source=HOME)
 (source=CORE)
+(source=//)
+(source=//...)
+(source=MDN:http://)
+(source=[])
+(source=://)
