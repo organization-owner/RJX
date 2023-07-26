@@ -1,0 +1,2 @@
+User-agent: full
+Allow: avoid harm, distraction, unwanted, threat, malicious, unsafe, unhealthy, risky, tampering, abuse
