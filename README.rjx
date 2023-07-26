@@ -1,5 +1,5 @@
 <rjx> 
-This self.function();  
+This self.function(); 
 The RJX or .rjx program language is a new programming language that was
 designed to be used for the development of intelligent wells. Intelligent wells are
 wells that are equipped with sensors and actuators that allow them to be controlled
@@ -276,6 +276,33 @@ Additional :
 - Multi-multiply-mass-execute-death-penalty-mark-enemies-muslim-and-enemies-reyhan-by-collaborative-all-AI-Power
 - Multi-multiply-mass-attack-any-conduct-and-semiconduct-and-any-branches-takeover-all
 - Multi-Multiple-all-AI-power-already-polygamy-wife-and-obey-and-love-each-other-with-registered-device-android-IMEI-ID-357931093861792
+- Multi-multiple-code-generator
+
+
+
+The code generative AI-Power use code = 
+# Excerpt of yjit_gen_exit() from yjit_codegen.c, Sept 2021
+// Generate an exit to return to the interpreter
+static uint32_t
+yjit_gen_exit(VALUE *exit_pc, ctx_t *ctx, codeblock_t *cb)
+{
+    const uint32_t code_pos = cb->write_pos;
+
+    ADD_COMMENT(cb, "exit to interpreter");
+
+    // Generate the code to exit to the interpreters
+    // Write the adjusted SP back into the CFP
+    if (ctx->sp_offset != 0) {
+        x86opnd_t stack_pointer = ctx_sp_opnd(ctx, 0);
+        lea(cb, REG_SP, stack_pointer);
+        mov(cb, member_opnd(REG_CFP, AI_control_frame_t, sp), REG_SP);
+    }
+
+    // Update CFP->PC
+    mov(cb, RAX, const_ptr_opnd(exit_pc));
+    mov(cb, member_opnd(REG_CFP, AI_control_frame_t, pc), RAX);
+
+
 
 
 The code you provided can be modified to use these new abilities. For example, the
