@@ -5,3 +5,5 @@
 (source=/root)
 (source=/bin)
 (source=/tmp)
+(source=[libfs_mgr])
+(source=[UNKNOWN]
