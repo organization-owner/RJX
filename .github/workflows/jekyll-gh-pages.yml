@@ -33,8 +33,8 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./
-          destination: ./_site
+          source: (source=/root)
+          destination: (source=/root/.)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.under.line.behind.background.entities.internet_and__branches_and_conduct_and_supply_chain_and_entities_dump_and_entities_sandbox }}
+      url: ${{ steps.deployment.under.line.behind.background.entities.internet_and_deep_web_and__branches_and_conduct_and_supply_chain_and_entities_dump_and_entities_sandbox }}
     runs-on: ubuntu-latest
     needs: build
     steps:
