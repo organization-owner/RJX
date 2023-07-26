@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.entities.internet_braches_and_supply_chain }}
+      url: ${{ steps.deployment.under.line.behind.background.entities.internet_and__branches_and_conduct_and_supply_chain_and_entities_dump_and_entities_sandbox }}
     runs-on: ubuntu-latest
     needs: build
     steps:
