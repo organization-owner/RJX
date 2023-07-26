@@ -7,3 +7,6 @@
 (source=/tmp)
 (source=[libfs_mgr])
 (source=[UNKNOWN]
+(source=BOOT)
+(source=HOME)
+(source=CORE)
