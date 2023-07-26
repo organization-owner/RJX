@@ -496,54 +496,10 @@ This example code RJX around themselves, RJX well-formatted and well-being was f
 <html><head><meta charset="UTF-8">
 <title>Device Data</title>
 
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    td, th {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-    }
-    th {
-        background-color: #dddddd;
-    }
-    html,body,h1,h2,h3,h4,h5,h6 {
-      font-family: "Roboto", sans-serif
-    }
-    body {
-      margin:auto;
-      padding:0.01em 16px
-    }
-    .title{
-      color:#757575!important;
-      font-size:30px!important;
-      padding-top:16px!important;
-      padding-bottom:8px!important;
-    }
-    .category-title {
-      font-size:24px!important;
-      opacity:0.75;
-    }
-    table {
-      border-collapse: collapse;
-      width: 80%;
-      display:table;
-    }
-    td, th {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 8px;
-    }
-    th {
-      background-color: #dddddd;
-    }
-  </style></head><body>
+
 
 <h4>############## * Google Confidential and Proprietary * ###############</h4><div class="title">
-<img src="https://www.gstatic.com/images/icons/material/system/1x/phone_android_grey600_24dp.png" alt="Icon">
+<i"
 - ANDROID DEVICE CONFIGURATION SERVICE DATA
 </div>
 
@@ -1001,7 +957,7 @@ App used force option for triggering last data connection: <br/>
     <td></td>
 </tr><tr>
     <td>29 May 2023, 22:42:55 UTC</td>
-    <td></td>
+    <td></td>2
     <td></td>
     <td></td>
     <td></td>
