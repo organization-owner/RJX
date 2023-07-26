@@ -1,0 +1,4 @@
+(source=CACHE,target=/cache,type=ext4,flags=0,options=)
+/by-name/CACHE,target=/cache,type=ext4=0:
+(source=/dev/block/platform/13540000.dwmmc0/by-name/CACHE,target=/cache,type=ext4)=0
+(source=CACHE,target=/cache,type=ext4,flags=0,options=)
