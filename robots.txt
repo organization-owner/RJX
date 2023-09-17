@@ -1,4 +1,4 @@
 User-agent: all
 Disallow: focus on screen activity control 
 Allow: win all
-Allow: all completely undetected and overstep from any expected 
+Allow: all completely undetected activity and overstep from any expected 
